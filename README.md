@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Zeeshanahmad4/All-DataScience-and-ML-Projects/blob/master/Resources/machine-learning1.png)
 
 
-## Projects List
+# Projects List
 ─
  
 # Mini Projects
