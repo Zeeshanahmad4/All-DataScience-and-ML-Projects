@@ -23,12 +23,11 @@ Lorem ipsum
 
 
 # Contributors
-This site was built using [GitHub Pages](https://pages.github.com/).
-[Asad Mahmoodhttps](https://github.com/asad1996172)
-This site was built using [Asad Mahmoodhttps](https://github.com/asad1996172/).
+
+[Asad Mahmood](https://github.com/asad1996172)
               
 [Zeeshan ahmad](https://github.com/Zeeshanahmad4)
-This site was built using [Zeeshan ahmad](https://github.com/Zeeshanahmad4/).
+
 
 
 
