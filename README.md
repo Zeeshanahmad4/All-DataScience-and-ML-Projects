@@ -12,7 +12,7 @@
 
 
 
-# Mediocre Normal Projects
+# Medium Complexity Projects
 
 Lorem ipsum
 
