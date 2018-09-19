@@ -6,7 +6,7 @@
 ─
  
 # Mini Projects
-1.[911 CALLS data analysis with panda and matplot,seaborn](https://github.com/Zeeshanahmad4/All-DataScience-and-ML-Projects/blob/master/911%20Calls%20analysis.md) 
+1.[911 CALLS data analysis with panda and matplot/seaborn](https://github.com/asad1996172/911-CALLS-data-analysis-with-panda-and-matplot-seaborn) 
 
 2. Financial data analysis (exploratory data analysis of stock prices. Keep in mind, this project is just meant to practice your visualization and pandas skills)
 
